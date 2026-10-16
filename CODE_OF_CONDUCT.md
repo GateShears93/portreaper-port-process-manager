@@ -14,4 +14,4 @@ We want this project to be a welcoming, harassment-free space for everyone, rega
 - Publishing others' private information without permission
 
 ## Enforcement
-Maintainers may remove comments, issues or contributions that violate this code, and may block repeat offenders. To report a problem, contact the maintainer through the GitHub profile: https://github.com/SupervisorExpiate86
+Maintainers may remove comments, issues or contributions that violate this code, and may block repeat offenders. To report a problem, contact the maintainer through the GitHub profile: https://github.com/GateShears93
