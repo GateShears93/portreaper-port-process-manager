@@ -5,7 +5,6 @@
 **See what is using port 3000, 5173, 8080 or any other port, and kill it in one click. A free, portable Port and Process Manager for developers. No more `netstat`, `taskkill` and "EADDRINUSE: address already in use".**
 
 [![Release](https://img.shields.io/github/v/release/GateShears93/portreaper-port-process-manager?style=flat-square)](https://github.com/GateShears93/portreaper-port-process-manager/releases)
-[![Downloads](https://img.shields.io/github/downloads/GateShears93/portreaper-port-process-manager/total?style=flat-square)](https://github.com/GateShears93/portreaper-port-process-manager/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)](#installation)
 [![Stars](https://img.shields.io/github/stars/GateShears93/portreaper-port-process-manager?style=flat-square)](https://github.com/GateShears93/portreaper-port-process-manager/stargazers)
